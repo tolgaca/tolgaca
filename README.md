@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tolga Can Arık
 - 👀 I’m interested in IT Engineering
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tolga.c.arik@gmail.com
 
 <!---
