@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me tolga.c.arik@gmail.com
 
-Experience  
+Experiences
 - Knowledge of Java programming language.
 - Knowledge in Manual and Automation Testing.
 - Knowledge and practice skills in complete Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
