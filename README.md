@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tolga Can Arık
-- 👀 I’m interested in IT Engineering
-- 🌱 I’m currently learning Java
-- 📫 How to reach me tolga.c.arik@gmail.com
+- 👀 I’m interested in Software testing
+- 📫 How to reach me ==> tolga.c.arik@gmail.com
 
 Experiences
 - Knowledge of Java programming language.
@@ -16,7 +15,7 @@ Experiences
 - Using a project management tool (JIRA)
 - Knowledge of SQL programming and database structure(Oracle).
 - Knowledge of cloud environments (AWS).
-- Knowledge of API (Postman)
+- API testing with proven tools (Postman)
 - Basic knowledge about HTML, CSS, XML.
 
 
