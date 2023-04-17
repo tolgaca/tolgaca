@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Tolga Can Arık
 - 🔭 I’m Software Development Engineer in Test (SDET)
 - 👀 I’m interested in Software testing
-- 💬 Ask me about Java, Selenium, Junit, TestNg, Cucumber, Gauge, API, HTML, CSS, SQL, JDBC, SDLC, STLC, Agile/Scrum.
+- 💬 Ask me about Java, SDLC, STLC, Agile/Scrum, Selenium, Cucumber, Junit, TestNg, API, HTML, CSS, SQL, JDBC.
 - 📫 How to reach me ==> tolga.c.arik@gmail.com
 
 Experiences
