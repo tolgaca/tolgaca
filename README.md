@@ -8,7 +8,7 @@ I am **Tolga Can Arık**. I am an Experienced **Software Development Engineer in
 - 👀 I’m interested in **Software testing**
 - 💬 Ask me about **Java, SDLC, STLC, Agile/Scrum, Selenium, Cucumber, Junit, TestNg, API, HTML, CSS, SQL, JDBC**.
 - 📫 How to reach me ==> **[LinkedIn](https://www.linkedin.com/in/tolga-can-ar%C4%B1k-358005229/)**  
-                     ==> **[Email]** tolga.c.arik@gmail.com  
+- 📫 How to reach me ==> **Email=** tolga.c.arik@gmail.com  
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
