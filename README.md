@@ -19,7 +19,7 @@ Experiences
 - Using a project management tool (JIRA)
 - Knowledge of SQL programming and database structure(Oracle).
 - Knowledge of cloud environments (AWS).
-- API testing with proven tools (Postman)
+- API testing with proven tools (Postman,RestAssured)
 - Basic knowledge about HTML, CSS, XML.
 
 
