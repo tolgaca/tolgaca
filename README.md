@@ -3,13 +3,12 @@
 </h1>
 
 I am **Tolga Can Arık**. I am an Experienced **Software Development Engineer in Test** from **Turkey**.
-Detail-oriented **Test Engineer** with **over +2 years** of experience and a comprehensive technical knowledge of 
-flaw identification in Software Web Applications. I graduated from **Antalya Science University** and **Department of Electrical and Electronics Engineer**.
 
 - 🔭 I’m currently working as **Software Test Engineer**
 - 👀 I’m interested in **Software testing**
 - 💬 Ask me about **Java, SDLC, STLC, Agile/Scrum, Selenium, Cucumber, Junit, TestNg, API, HTML, CSS, SQL, JDBC**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tolga-can-ar%C4%B1k-358005229/)**    
+- 📫 How to reach me ==> **[LinkedIn](https://www.linkedin.com/in/tolga-can-ar%C4%B1k-358005229/)**  
+                     ==> **[Email]** tolga.c.arik@gmail.com  
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
@@ -34,18 +33,11 @@ flaw identification in Software Web Applications. I graduated from **Antalya Sci
 #  💳 Profile Summary :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolgaca&theme=vue)
 <br/>
+
 #  📊 Most Used Language :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaca)
 <br/>
-#  🏆 Trophy Stats :
-![](https://github-profile-trophy.vercel.app/?username=tolgaca)
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://user-images.githubusercontent.com/101811316/176577731-a92a974d-f87c-4071-9ba1-25abde76d025.gif)
 
-- 👋 Hi, I’m Tolga Can Arık
-- 🔭 I’m Software Development Engineer in Test (SDET)
-- 👀 I’m interested in Software testing
-- 💬 Ask me about Java, SDLC, STLC, Agile/Scrum, Selenium, Cucumber, Junit, TestNg, API, HTML, CSS, SQL, JDBC.
-- 📫 How to reach me ==> tolga.c.arik@gmail.com
 
 Experiences
 - Knowledge of Java programming language.
